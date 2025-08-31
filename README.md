@@ -6,8 +6,8 @@ Features:
 (✅ - Completed, 🚧 - WIP)
 * Unused variables that might indicate a typo or an oversight. ✅
 * Incorrect indentation or inconsistent spacing. 🚧
-* Trailing whitespace at the end of a line. 🚧
-* Lines that are too long according to a style guide. 🚧
+* Trailing whitespace at the end of a line. ✅
+* Lines that are too long according to a style guide. ✅
 * Using deprecated functions or common anti-patterns. 🚧
 
 ## Installation
