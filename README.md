@@ -16,9 +16,10 @@ The current way to install hawkeye is from source.
 
 ### From source
 
-`git clone https://github.com/philippark/Hawkeye.git
-
-cd hawkeye`
+~~~~
+git clone https://github.com/philippark/Hawkeye.git
+cd hawkeye
+~~~~
 
 ## Usage
 
