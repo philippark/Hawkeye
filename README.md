@@ -1,4 +1,4 @@
-### Hawkeye
+# Hawkeye
 
 Hawkeye is a simple linter for Python. It's a static code analysis tool to catch errors and enforce style rules.
 
@@ -14,11 +14,11 @@ Features:
 
 The current way to install hawkeye is from source.
 
-# From source
+### From source
 
-`git clone https://github.com/philippark/hawkeye.git
-cd hawkeye`
+`git clone https://github.com/philippark/Hawkeye.git`
+`cd hawkeye`
 
 ## Usage
 
-python linter.py <file_to_lint.py>
+`python linter.py <file_to_lint.py>`
