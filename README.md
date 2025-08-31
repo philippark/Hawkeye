@@ -10,6 +10,15 @@ Features:
 * Lines that are too long according to a style guide. 🚧
 * Using deprecated functions or common anti-patterns. 🚧
 
+## Installation
+
+The current way to install hawkeye is from source.
+
+# From source
+
+`git clone https://github.com/philippark/hawkeye.git
+cd hawkeye`
+
 ## Usage
 
 python linter.py <file_to_lint.py>
